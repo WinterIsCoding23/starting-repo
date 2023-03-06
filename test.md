@@ -5,7 +5,7 @@ Important text
 
 ## Headline 2
 Let's try to do *italic*
-md
+md = markdown
 
 ### Headline 3
 This text **NOT** as important as the others. 
@@ -29,4 +29,3 @@ for (let i = 0; i<6; i++){
 ```
 
 If we just want to write a line (instead of a code-block): `i === 0` 
-
