@@ -8,7 +8,7 @@ Let's try to do *italic*
 md = markdown
 
 ### Headline 3
-This text **NOT** as important as the others. 
+This text is **NOT** as important as the others. 
 
 Here is [Google] (https://www.google.com/) Link
 
